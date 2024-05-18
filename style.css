@@ -1,0 +1,20 @@
+#name{
+    font-size: 40px;
+}
+#career>img{
+    position: absolute;
+    right: 10%;
+    top: 15%;
+    border-radius: 500px;
+    display: block;
+    width: 250px;
+}
+#text{
+    width: 60%;
+}
+#engg{
+    width: 60%;
+}
+body{
+    background-color: rgb(238, 192, 209);
+}
